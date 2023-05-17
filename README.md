@@ -23,7 +23,7 @@ In the following analysis, We will explain the reasoning behind our conclusions 
 ![image.jpg](https://github.com/christychen65/Case-Profitability-Data-Analysis/assets/132826012/57cad95f-f1d6-4cb1-9a85-fd9b17376ff1)
 
 
-### 4. Method - Financial Modeling ([Link](url))
+### 4. Method - Financial Modeling <b><a href="https://github.com/christychen65/Case-Accelerating-Subscribers-through-Financial-Modeling/blob/main/Financial%20Modeling%20Excel%20Doc/Case%20Analysis%20Modeling.xlsx">(Model)</a></b>
 
 1. Location increase 188 for building its own stores option, while 2000 location for Retail Partner								
 2. **Running Revenue** is accumulated with Running sum of all previous months, which is caused by running units								
@@ -33,19 +33,23 @@ In the following analysis, We will explain the reasoning behind our conclusions 
 
 ### 5. Result
 
-* Profitability Milestone
+#### Profitability Milestone
 <img width="826" alt="Screenshot 2023-05-16 at 21 06 19" src="https://github.com/christychen65/Case-Accelerating-Subscribers-through-Financial-Modeling/assets/132826012/96727e66-959e-445d-830f-a9b4982cdb80">
 
   * Partnership (option 1): In 3 years, profit margin is $710m <br />
   * Building its own stores (option 2): In 3 years, profit margin is $765m <br />
-  * Difference: $55m
+  * Difference: $55m <br />
+
+#### Revenue and Cost Analysis
+<img width="503" alt="Screenshot 2023-05-16 at 21 09 51" src="https://github.com/christychen65/Case-Accelerating-Subscribers-through-Financial-Modeling/assets/132826012/c9851f51-8c70-4519-b036-6c504fe38d9e"><br />
+* Accumulated cost of building its own stores is stabilized after month 8, while Partnership is increasing in a constant rate.
+ <br />
+ 
+<img width="461" alt="Screenshot 2023-05-16 at 21 10 01" src="https://github.com/christychen65/Case-Accelerating-Subscribers-through-Financial-Modeling/assets/132826012/32f3aab2-1f18-4c19-8b0e-7b235e835dfe"><br />
+* The accumulated revenue of building its own stores is increasing in the long term.
 
 <br />
 
-* Revenue and Cost Analysis
-Accumulated cost of Option 2 is stabilized after month 8, while Option 1 is increasing in a constant rate.
-<img width="503" alt="Screenshot 2023-05-16 at 21 09 51" src="https://github.com/christychen65/Case-Accelerating-Subscribers-through-Financial-Modeling/assets/132826012/c9851f51-8c70-4519-b036-6c504fe38d9e">
+### <b><a href="https://github.com/christychen65/Case-Accelerating-Subscribers-through-Financial-Modeling/blob/main/Financial%20Modeling%20Excel%20Doc/Case%20Analysis%20Modeling.xlsx">Report</a></b>
 
-<img width="461" alt="Screenshot 2023-05-16 at 21 10 01" src="https://github.com/christychen65/Case-Accelerating-Subscribers-through-Financial-Modeling/assets/132826012/32f3aab2-1f18-4c19-8b0e-7b235e835dfe">
 
-<br />

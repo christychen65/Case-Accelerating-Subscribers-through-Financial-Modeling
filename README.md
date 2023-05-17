@@ -50,6 +50,6 @@ In the following analysis, We will explain the reasoning behind our conclusions 
 
 <br />
 
-### <b><a href="https://github.com/christychen65/Case-Accelerating-Subscribers-through-Financial-Modeling/blob/main/Financial%20Modeling%20Excel%20Doc/Case%20Analysis%20Modeling.xlsx">Report</a></b>
+### 6. Report <b><a href="https://github.com/christychen65/Case-Accelerating-Subscribers-through-Financial-Modeling/blob/main/Financial%20Modeling%20Excel%20Doc/Case%20Analysis%20Modeling.xlsx](https://github.com/christychen65/Case-Accelerating-Subscribers-through-Financial-Modeling/blob/main/Report/Case%20Analysis%20Report.pdf">(Link)</a></b>
 
 
